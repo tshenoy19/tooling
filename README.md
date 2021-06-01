@@ -10,10 +10,10 @@ This is a Dockerfile to build a debian based container image running nginx and p
 | latest | master Branch |1.17.2 | 7.3.8 | buster |
 
 
-## How to use the repository for  tooling project
+## How to use the repository for the tooling project
 The build is automatically triggered by a git push to your feature/[branch]
 
-## First clone repository to your workstation
+## First clone repository to the workstation
 ```
 $ git clone https://gitlab.com/propitix/microservices/php-frontend.git
 $ cd frontend-propitix
