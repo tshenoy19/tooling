@@ -2,7 +2,7 @@
 
 
 ### Introduction to Tooling Project
-This is a Dockerfile to build a debian based container image running nginx and php-fpm 7.3.x / 7.2.x / 7.1.x / 7.0.x & Composer.
+This is a Dockerfile to build a debian based container image running nginx and php-fpm 7.3.x / 7.2.x / 7.1.x / 7.0.x & Composer
 
 ### Versioning
 | Docker Tag | GitHub Release | Nginx Version | PHP Version | Debian Version |
@@ -71,4 +71,4 @@ Default web root
 /usr/share/nginx/html
 ```
 
-## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
+## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com.
