@@ -66,7 +66,7 @@ To run the container:
 $ docker run -d eu.gcr.io/$environment/frontend-propitix:$tag-version
 ```
 
-Default web root:
+Default web root
 ```
 /usr/share/nginx/html
 ```
