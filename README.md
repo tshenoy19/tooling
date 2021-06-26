@@ -31,7 +31,7 @@ git branch -b feature/add-css-style-to-about-us-page
 ./html/
 ```
 
-Then add/commit/push to gitlab:
+Then add/commit/push to gitlab
 
 ```
 git status # to see your changes
